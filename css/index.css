@@ -1,0 +1,26 @@
+#div_top_hypers {
+    background-color: #eeeeee;
+    display: inline;
+}
+
+#ul_top_hypers li {
+    display: inline;
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+p {
+    color: brown;
+    padding-top: 5px;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+body {
+    background-color: black;
+}
